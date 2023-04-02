@@ -1,5 +1,6 @@
 papaya
-super-mango
 passion fruit
 banana
 lichy
+normal mango
+passion fruit
