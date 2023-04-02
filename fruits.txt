@@ -1,3 +1,5 @@
 papaya
-mango
+super-mango
 passion fruit
+banana
+lichy
